@@ -33,7 +33,7 @@ Sou um desenvolvedor com experiência em várias linguagens de programação e f
 
 - [![Email](https://img.shields.io/badge/Email-spedrolucas740@gmail.com-1976D2?style=flat&logo=gmail&logoColor=white)](mailto:spedrolucas740@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Lucas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-a40414242/)
-- [![Instagram](https://img.shields.io/badge/Instagram-@opedrolucasdev__dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/opedrolucasdev)
+- [![Instagram](https://img.shields.io/badge/Instagram-@opedrolucasdev-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/opedrolucasdev)
 
 ## Outros Interesses
 
